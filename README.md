@@ -1,2 +1,2 @@
-# Hilo-CSE-210
+# cse210-02
 game for 210
